@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+}
+
+.title {
+  color: yellow;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.linkText {
+  color: #fff;
+}

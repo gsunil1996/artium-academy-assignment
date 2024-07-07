@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.error {
+  margin-top: 20px;
+  color: #fff;
+}
+
+.progress {
+  width: 100%;
+  margin-top: 20px;
+}
